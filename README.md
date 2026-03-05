@@ -1,5 +1,6 @@
 # midterm-deeplearning-52300090-52300100-52300128
 Báo Cáo Giữa Kỳ: Nhập Môn Học Sâu (Introduction to Deep Learning)
+
 Dự án này tập trung vào việc tìm hiểu và triển khai hai mô hình quan trọng trong Học sâu: Deep Belief Network (DBN) cho bài toán phân loại ảnh cơ bản và hệ thống Visual Question Answering (VQA) kết hợp giữa Thị giác máy tính (CNN) và Xử lý ngôn ngữ tự nhiên (LSTM).
 
 📂 Cấu trúc dự án
