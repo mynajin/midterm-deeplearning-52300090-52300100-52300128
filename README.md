@@ -10,4 +10,4 @@ DBN.ipynb: Tìm hiểu lý thuyết và triển khai mô hình Deep Belief Netwo
 
 PART2_VQA_SCRATCH_&_PRETRAINED.ipynb: So sánh hiệu quả của việc huấn luyện mô hình VQA từ đầu (Scratch) so với việc sử dụng các mô hình đã huấn luyện trước (Pretrained).
 
-PART2_VQAModelAttention (4).ipynb: Triển khai kiến trúc VQA nâng cao có sử dụng cơ chế Spatial Attention để tối ưu hóa việc trả lời câu hỏi dựa trên vùng ảnh.
+PART2_VQA_NOATTENTION_&_WITHATTENTION.ipynb: So sánh hiệu quả của việc huấn luyện mô hình VQA không có Attention so với mô hình có Attention (sử dụng cơ chế Spatial Attention để tối ưu hóa việc trả lời câu hỏi dựa trên vùng ảnh).
